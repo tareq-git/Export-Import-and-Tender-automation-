@@ -9,7 +9,7 @@ Trade management system (TMS) is an integrated machine so that it will assist Ba
 > Buyer can research product details through online.
 > Seller can make shipment without going the physical address.
 > To make the exporter, importer digital marketing rapidly and effortlessly in total online based framework. 
-Expected Outcome
+##Expected Outcome:
 
 > User can make different profile for different companies.
 > Seller can sell and introduce their upcoming product.
@@ -54,6 +54,6 @@ o Composer.
 > User can Generate Report.
 
 ## Project Screenshot:
-<p align="center"><img src=" {{asset('images/dashboard.png')}} "></p>
+<p align="center"><img src=" {{"images/dashboard.png"}} "></p>
 
 
