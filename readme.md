@@ -35,38 +35,38 @@ To complete the application, we need two types of requirement. Those are
 > Configured Computer
 
 ## Software Requirement:
-> System Requirement
-o Laravel 5.7
-o MySQL 7.3.0
-o Sublime Text
-o PHP 
-o Draw.io
-> Browser Requirement
-o Google Chrome 10+
-o Mozilla Firefox 4+
-o UC Browser 10+
-o Internet Explorer 9+
-> Develop environment
-o Xampp Server
-o Composer.
+ System Requirement:<br>
+* Laravel 5.7
+* MySQL 7.3.0
+* Sublime Text
+* PHP 
+* Draw.io<br>
+Browser Requirement: <br>
+* Google Chrome 10+
+* Mozilla Firefox 4+
+* UC Browser 10+
+* Internet Explorer 9+
+Develop environment: <br>
+* Xampp Server
+* Composer. <br>
 ## Project Feature contains:
-> User can create Shipper profile.
-> User can create Buyer profile.
-> User can create Seller profile.
-> User can create Banks profile.
-> User can create Product List.
-> User can create Product Catalogue.
-> User can create Cost & Freight profile.
-> User can Generate Invoices.
-> User can Generate Report.
-
+* User can create Shipper profile.
+* User can create Buyer profile.
+* User can create Seller profile.
+* User can create Banks profile.
+* User can create Product List.
+* User can create Product Catalogue.
+* User can create Cost & Freight profile.
+* User can Generate Invoices.
+* User can Generate Report.
+<br>
 ## Project Screenshot:
 <p align="center"><img src="public/images/dashboard.png" alt="Preview" style="max-width:100%;"></p>
 
-<p align="center">Figure : Export, Import and Tender Automation Dashboard Section. </p>
+<p align="center"><b>Figure : Export, Import and Tender Automation Dashboard Section. </b></p>
 <p align="center"><img src="public/images/buyer.png" alt="Preview1" style="max-width:100%;"></p>
-<p align="center">Figure: Export, Import and Tender Automation Buyer Section. </p>
+<p align="center"><b>Figure: Export, Import and Tender Automation Buyer Section. </b></p>
 <p align="center"><img src="public/images/seller.png" alt="Preview2" style="max-width:100%;"></p>
-<p align="center">Figure 4.1.2: Export, Import and Tender Automation Seller Section. </p>
+<p align="center"><b>Figure 4.1.2: Export, Import and Tender Automation Seller Section. </b></p>
 <p align="center"><img src="public/images/shipper.png" alt="Preview3" style="max-width:100%;"></p>
-<p align="center">Figure: Export, Import and Tender Automation Shipper Section. </p>
+<p align="center"><b>Figure: Export, Import and Tender Automation Shipper Section. </b></p>
