@@ -63,10 +63,10 @@ o Composer.
 ## Project Screenshot:
 <p align="center"><img src="public/images/dashboard.png" alt="Preview" style="max-width:100%;"></p>
 
-Figure : Export, Import and Tender Automation Dashboard Section.
+<p align="center"><Figure : Export, Import and Tender Automation Dashboard Section. </p>
 <p align="center"><img src="public/images/buyer.png" alt="Preview1" style="max-width:100%;"></p>
-Figure: Export, Import and Tender Automation Buyer Section.
+<p align="center"><Figure: Export, Import and Tender Automation Buyer Section. </p>
 <p align="center"><img src="public/images/seller.png" alt="Preview2" style="max-width:100%;"></p>
-Figure 4.1.2: Export, Import and Tender Automation Seller Section.
+<p align="center"><Figure 4.1.2: Export, Import and Tender Automation Seller Section. </p>
 <p align="center"><img src="public/images/shipper.png" alt="Preview3" style="max-width:100%;"></p>
-Figure: Export, Import and Tender Automation Shipper Section.
+<p align="center"><Figure: Export, Import and Tender Automation Shipper Section. </p>
