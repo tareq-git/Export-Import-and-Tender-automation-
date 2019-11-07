@@ -1,72 +1,59 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+##Introduction:
+Export, Import and Tender Automation is a Laravel project. It is a Trade Management System.
+Trade management system (TMS) is an integrated machine so that it will assist Bangladesh exporters and importers to put together exchange documents, arrange logistics and request financing from a single platform. To start with, TMS can be supplying export documentation carrier together with advanced reporting and archiving centers for the exporters. Then, it will introduce instantaneous freight checker and request financing gear to get a freight quote and financing immediately. Complete a total shipment without going here and there. Sends product item, list easily by selecting a catalogue box. The goods are modular in nature and may be used as standalone or as an incorporated package deal to form a seamless give up-to-cease technique to streamline exporter’s documentation and regulatory approval wishes.
+##Objectives:
+> To make an online platform for Export, Import and Tender.
+> For time consuming.
+> Make easier to send product item to buyer.
+> Reduce hassle for banking transaction.
+> Buyer can research product details through online.
+> Seller can make shipment without going the physical address.
+> To make the exporter, importer digital marketing rapidly and effortlessly in total online based framework. 
+Expected Outcome
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+> User can make different profile for different companies.
+> Seller can sell and introduce their upcoming product.
+> Buyer can buy and analysis their interested product.
+> They can communicate locally and globally.
+> User always observe their shipment status.
+> User can generate weekly and monthly report.
+> They also print pdf file for future scope.
+> Shippers get an online platform for shipment.
+> Automatically generate annual report  
 
-## About Laravel
+## Implementation of Requirements
+To complete the application, we need two types of requirement. Those are
+* Hardware requirement
+* Software requirement.
+## Hardware Requirement:
+> Configured Computer
+## Software Requirement:
+> System Requirement
+o Laravel 5.7
+o MySQL 7.3.0
+o Sublime Text
+o PHP 
+o Draw.io
+> Browser Requirement
+o Google Chrome 10+
+o Mozilla Firefox 4+
+o UC Browser 10+
+o Internet Explorer 9+
+> Develop environment
+o Xampp Server
+o Composer.
+## Project Feature contains:
+> User can create Shipper profile.
+> User can create Buyer profile.
+> User can create Seller profile.
+> User can create Banks profile.
+> User can create Product List.
+> User can create Product Catalogue.
+> User can create Cost & Freight profile.
+> User can Generate Invoices.
+> User can Generate Report.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Project Screenshot:
+<p align="center"><img src=" {{asset('images/dashboard.png')}} "></p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1400 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
