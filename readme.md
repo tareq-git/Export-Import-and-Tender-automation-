@@ -1,7 +1,9 @@
 ##Introduction:
 Export, Import and Tender Automation is a Laravel project. It is a Trade Management System.
 Trade management system (TMS) is an integrated machine so that it will assist Bangladesh exporters and importers to put together exchange documents, arrange logistics and request financing from a single platform. To start with, TMS can be supplying export documentation carrier together with advanced reporting and archiving centers for the exporters. Then, it will introduce instantaneous freight checker and request financing gear to get a freight quote and financing immediately. Complete a total shipment without going here and there. Sends product item, list easily by selecting a catalogue box. The goods are modular in nature and may be used as standalone or as an incorporated package deal to form a seamless give up-to-cease technique to streamline exporter’s documentation and regulatory approval wishes.
+
 ##Objectives:
+
 > To make an online platform for Export, Import and Tender.
 > For time consuming.
 > Make easier to send product item to buyer.
@@ -9,6 +11,7 @@ Trade management system (TMS) is an integrated machine so that it will assist Ba
 > Buyer can research product details through online.
 > Seller can make shipment without going the physical address.
 > To make the exporter, importer digital marketing rapidly and effortlessly in total online based framework. 
+
 ##Expected Outcome:
 
 > User can make different profile for different companies.
@@ -22,11 +25,14 @@ Trade management system (TMS) is an integrated machine so that it will assist Ba
 > Automatically generate annual report  
 
 ## Implementation of Requirements
+
 To complete the application, we need two types of requirement. Those are
 * Hardware requirement
 * Software requirement.
+
 ## Hardware Requirement:
 > Configured Computer
+
 ## Software Requirement:
 > System Requirement
 o Laravel 5.7
@@ -54,6 +60,6 @@ o Composer.
 > User can Generate Report.
 
 ## Project Screenshot:
-<p align="center"><img src=" {{"images/dashboard.png"}} "></p>
+<p align="center"><img src="public/images/dashboard.png" alt="Preview" style="max-width:100%;"></p>
 
 
